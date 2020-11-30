@@ -1,2 +1,3 @@
 # Color-detection-using-Cuda-C
-Program that recognizes color using python, opencv and python.
+Program that recognizes color using Cuda C, opencv and Cuda C.
+#
